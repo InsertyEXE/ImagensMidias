@@ -1,0 +1,2 @@
+rootProject.name = "ImagensMidias"
+include ':app'
